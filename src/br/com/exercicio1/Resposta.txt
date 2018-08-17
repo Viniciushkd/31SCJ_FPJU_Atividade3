@@ -1,0 +1,3 @@
+a: É criado 1 objeto do tipo String.
+
+b: Instanciando o obejto fora de um loop.
